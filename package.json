@@ -10,11 +10,14 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@react-three/drei": "^9.112.0",
+    "@splinetool/r3f-spline": "^1.0.2",
     "@splinetool/react-spline": "^4.0.0",
     "@splinetool/runtime": "^1.9.25",
     "locomotive-scroll": "^4.1.4",
     "react": "^18.3.1",
-    "react-dom": "^18.3.1"
+    "react-dom": "^18.3.1",
+    "three": "^0.135.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.9.0",
